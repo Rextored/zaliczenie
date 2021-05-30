@@ -1,0 +1,2 @@
+# zaliczenie
+Repozytorium zaliczeniowe
